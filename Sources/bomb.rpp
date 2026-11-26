@@ -1,0 +1,634 @@
+<REAPER_PROJECT 0.1 "7.73/win64" 1795699135 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 6.11590904484146
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 40.00509102831712
+  ZOOM 334.63838456748454 12191 0
+  VZOOMEX 13.06644344 283
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE C:\Users\alexandre.glatz\Documents\GitHub\WS_SoundDesign\Sources
+  RENDER_PATTERN $region
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 5 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 8
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 41.00833333333287 41.55833333333287
+  SELECTION2 41.00833333333287 41.55833333333287
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 1
+  <MASTERPLAYSPEEDENV
+    EGUID {3F3B9CA3-25DC-4449-BEDC-C673A8C1DD33}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {9916F062-F67D-4C45-B187-3A15668DD3EA}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  MARKER 1 0.99884645964111 SFX_BIP_01 1 0 1 R {180BDB29-3558-49BE-A009-2F1B10DEA7D8} 0 1
+  MARKER 1 1.14121253277593 "" 1
+  MARKER 2 2.00702885242902 SFX_BIP_02 1 0 1 R {CDEE4909-3167-4863-9391-93A2C33B730C} 0 1
+  MARKER 2 2.1017558779124 "" 1
+  MARKER 3 2.51666666666665 SFX_BIP_03 1 0 1 R {6C32B79C-6BA3-4133-8679-8128EE055DDD} 0 1
+  MARKER 3 2.64166666666665 "" 1
+  MARKER 4 8 SFX_Explosion_01 1 0 1 R {5EE00CBF-0ABD-40B1-8CC1-34E9B8AFDD6F} 0 1
+  MARKER 4 12 "" 1
+  MARKER 5 20 SFX_Explosion_02 1 0 1 R {FB216412-91AD-481A-A9FC-397E52B03AEC} 0 1
+  MARKER 5 24 "" 1
+  MARKER 6 31 SFX_Explosion_03 1 0 1 R {9CFF12AA-3E1B-40A0-8C4C-53285D20BFD3} 0 1
+  MARKER 6 36.5 "" 1
+  MARKER 7 37 SFX_STEP_Dirt_01 5 0 1 R {AA50FEC0-8ED7-4688-B529-E22C9199BB34} 0 1
+  MARKER 7 37.5 "" 5
+  MARKER 8 38.00520378568597 SFX_STEP_Dirt_02 5 0 1 R {8E775ADA-86DA-431E-9C39-8F5E2773B648} 0 1
+  MARKER 8 38.77319697431007 "" 5
+  MARKER 9 39.00329610086281 SFX_STEP_Dirt_03 5 0 1 R {FB49EA09-70C8-4071-AD3F-3E0F1A1F993C} 0 1
+  MARKER 9 39.63083917327939 "" 5
+  MARKER 10 40.00509102831712 SFX_STEP_Dirt_04 5 0 1 R {B442FC56-39C4-4660-B6F1-3189DB913CBC} 0 1
+  MARKER 10 40.62760742745401 "" 5
+  MARKER 11 41.00833333333287 SFX_STEP_Sirt_05 5 0 1 R {D83D8EF1-34E4-48C2-8899-79A2C13A7225} 0 1
+  MARKER 11 41.55833333333287 "" 5
+  <PROJBAY
+  >
+  <TRACK {6F5B1F13-416A-4E7F-939E-34E9F2F90C9C}
+    NAME "Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6F5B1F13-416A-4E7F-939E-34E9F2F90C9C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.1405158353491
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.06993829656315 0 1 0 0 0
+      FADEOUT 1 0.07057753878595 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD15DD15-3D8B-4EBF-A507-E04578D8D7FC}
+      IID 1
+      NAME "Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE7FCDD8-A08C-41CB-99A2-6041ED58FA03}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.09299307160051
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.03121395186378 0 1 0 0 0
+      FADEOUT 1 0.03303116405478 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF2FB752-D78E-4B22-982F-87563F83E7DD}
+      IID 1
+      NAME "Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.90704756401128
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DA0D61D-1F5E-48F4-9968-B0541C48A216}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.51666666666665
+      SNAPOFFS 0
+      LENGTH 0.12849691482816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.06873090793134 0 1 0 0 0
+      FADEOUT 1 0.05976600689681 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FD146EA-9CA9-475C-9346-0232A20518FD}
+      IID 1
+      NAME "Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.75894941783036
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19F57E2F-4E95-49A3-B172-523564B8EF5D}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Designed, Synthetic, Synthesizer, Retro Scifi, Buttons, Misc 01 SND90207.wav"
+      >
+    >
+  >
+  <TRACK {D48A7C45-2E6E-4EEE-AAF9-46678E0D859F}
+    NAME BOMB
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D48A7C45-2E6E-4EEE-AAF9-46678E0D859F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {3E275126-51B3-459E-80A8-15270144E104}
+    NAME Explosion
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3E275126-51B3-459E-80A8-15270144E104}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B575B81E-9358-4AC9-81DE-BD05765D528A}
+      IID 3
+      NAME "Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5665A05-8A73-435E-AA0C-EB0EFF30DE3C}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B0B5C11-9375-48CA-B4BF-526D99CF62EC}
+      IID 3
+      NAME "Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6CBE969-2955-416A-9B29-4AA928D0E488}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.98347381247746
+      SNAPOFFS 0
+      LENGTH 5.27959792211167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A01FD315-8C42-4527-862E-FDA08B47F5F7}
+      IID 3
+      NAME "Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.72040207788832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D8B2559-B1FC-41AF-9919-DC25FBB4352C}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Real, Boom, Distant Explosion 01 SND46329.wav"
+      >
+    >
+  >
+  <TRACK {4915141D-2616-4819-9EAE-4B9327C04E0F}
+    NAME Explosion
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4915141D-2616-4819-9EAE-4B9327C04E0F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 2.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D27AE1C0-4A26-4F21-942B-D2E3990FED08}
+      IID 2
+      NAME "Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A095FADC-3705-4A1F-A434-ABD1F4289D62}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D63DF92-56E5-4BB5-AFBB-F934E6C2A1C4}
+      IID 2
+      NAME "Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF97E85B-92E9-439C-BC74-34007FFBD970}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 2 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41A4054C-4815-4952-A97C-05D18DF6B417}
+      IID 2
+      NAME "Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 31
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3247DD7-DBC8-42E7-B237-91F7EFC43F6B}
+      <SOURCE WAVE
+        FILE "C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Bomb_Assets\Explosions, Designed, Smoke Grenade SND117405 1.wav"
+      >
+    >
+  >
+  <TRACK {BE3C9DBC-0B25-4562-9BBA-D1B52B5D9DFF}
+    NAME FT
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE3C9DBC-0B25-4562-9BBA-D1B52B5D9DFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {4CF14BA8-5EF1-4627-BE5B-4B0ADD023449}
+    NAME Dirt
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.02920052719443 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4CF14BA8-5EF1-4627-BE5B-4B0ADD023449}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.22621999201587 0 1 0 0 0
+      FADEOUT 1 0.12662896791237 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0541CC32-7B3C-4686-9FBE-6CADEDD4DBCC}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FB6273D-761E-4A57-8752-19E300646651}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 0.7741377114257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.25905951035985 0 1 0 0 0
+      FADEOUT 1 0.44995337104602 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1958786E-3CF6-4BF0-96FB-C8D22DB2F8D8}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC13240D-7557-4E19-87EC-CB9A0FFB4EDB}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 0.62842162247735
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.29419511726778 0 1 0 0 0
+      FADEOUT 1 0.31076728424404 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A8947E8-3C5A-4D6E-B7B8-A672886D918A}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.27413771142569
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0343A7B5-FA45-47B6-8A0C-5B3758876772}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 0.62629857645547
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.3029416187857 0 1 0 0 0
+      FADEOUT 1 0.31162734718701 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E406871-5DFB-4CF9-BBE9-E06D93DC3D4A}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.90255933390303
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {141BE0D9-6957-4CE3-9FBD-89C61BC9E3AD}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 0.56897633386461
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.20612162595872 0 1 0 0 0
+      FADEOUT 1 0.257288213561 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B39FF334-1282-4AB1-A10F-724E286BC3D5}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.52885791035849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3483FB73-B19A-4E5C-AA7B-CC3329757AEC}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+    <ITEM
+      POSITION 43.09783424422311
+      SNAPOFFS 0
+      LENGTH 161.52883242244357
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FD6BB18-772B-403A-A21A-2B471320ADF0}
+      IID 10
+      NAME 2011_11_Dirt.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.09783424422311
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D12DE45-56B0-4F4D-BF69-7584F4BE7720}
+      <SOURCE WAVE
+        FILE "Media\2011_11_Dirt.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\alexandre.glatz\Downloads\Exercice\Exercice_Footsteps_Assets\2011_11_Dirt.wav
+      >
+    >
+  >
+>
